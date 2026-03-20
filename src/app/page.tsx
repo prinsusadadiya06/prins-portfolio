@@ -25,7 +25,7 @@ export default function Home() {
     },
     {
       title: "Food Portfolio",
-      description: "Full-stack blog platform built with React.js and Tailwind CSS.",
+      description: "Food portfolio built with React.js and Tailwind CSS.",
       imgSrc: "/foodportfolio.png",
       demoLink: "https://food-portfolio-mauve.vercel.app/",
       codeLink: "https://github.com/prinsusadadiya06/FoodPortfolio",

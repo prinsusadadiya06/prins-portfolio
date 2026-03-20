@@ -21,7 +21,7 @@ export default function ProjectsPage() {
     },
     {
       title: "Food Portfolio",
-      description: "Full-stack blog platform built with React.js and Tailwind CSS.",
+      description: "Food portfolio built with React.js and Tailwind CSS.",
       imgSrc: "/foodportfolio.png",
       demoLink: "https://food-portfolio-mauve.vercel.app/",
       codeLink: "https://github.com/prinsusadadiya06/FoodPortfolio",
@@ -49,7 +49,7 @@ export default function ProjectsPage() {
     },
     {
       title: "Internet Research Studio",
-      description: "Full-stack website built with Next.js and Tailwind CSS.",
+      description: "Internet research studio built with Html and CSS.",
       imgSrc: "/internet.png",
       demoLink: "https://internetresearchstudio-website.vercel.app/",
       codeLink: "https://github.com/prinsusadadiya06/InternetReserachStudio-Website",
