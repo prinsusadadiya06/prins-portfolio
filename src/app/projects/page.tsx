@@ -47,10 +47,6 @@ export default function ProjectsPage() {
       demoLink: "https://flipcart-clone-website.vercel.app/",
       codeLink: "https://github.com/prinsusadadiya06/FlipcartClone-Website",
     },
-
-
-
-
   ];
 
   return (
