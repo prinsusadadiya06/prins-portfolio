@@ -10,64 +10,47 @@ import Footer from "./components/Footer";
 export default function Home() {
   const projects = [
     {
-      title: "Portfolio Website",
-      description:
-        "A fully responsive Personal Portfolio built with React.js and Tailwind CSS.",
+      title: "Personal Portfolio",
+      description: "A fully responsive personal portfolio built with Next.js and Tailwind CSS.",
       imgSrc: "/portfolio.png",
-      demoLink:
-        "https://prinsusadadiya06.github.io/PrinsUsadadiya-Resume/",
-      codeLink:
-        "https://github.com/prinsusadadiya06/PrinsUsadadiya-Resume",
-    },
-    {
-      title: "E-commerce Website",
-      description:
-        "A fully responsive E-commerce Website built with React.js and Tailwind CSS.",
-      imgSrc: "/ecommerce.png",
-      demoLink:
-        "https://prinsusadadiya06.github.io/FlipcartClone-Website/",
-      codeLink:
-        "https://github.com/prinsusadadiya06/FlipcartClone-Website",
-    },
-    {
-      title: "Food Portfolio",
-      description:
-        "A fully responsive Food Portfolio built with React.js and Tailwind CSS.",
-      imgSrc: "/foodportfolio.png",
-      demoLink:
-        "https://prinsusadadiya06.github.io/FoodPortfolio/",
-      codeLink:
-        "https://github.com/prinsusadadiya06/FoodPortfolio",
-    },
-    {
-      title: "Internet Research Studio",
-      description:
-        "A fully responsive Internet Research Studio Web built with HTML,CSS.",
-      imgSrc: "/internet.png",
-      demoLink:
-        "https://prinsusadadiya06.github.io/InternetReserachStudio-Website/",
-      codeLink:
-        "https://github.com/prinsusadadiya06/InternetReserachStudio-Website",
-    },
-    {
-      title: "Car Rent Website",
-      description:
-        "A fully responsive Car Rent Web built with HTML,CSS.",
-      imgSrc: "/carrent.png",
-      demoLink:
-        "https://prinsusadadiya06.github.io/CarRent-Website/",
-      codeLink:
-        "https://github.com/prinsusadadiya06/CarRent-Website",
+      demoLink: "https://prinsusadadiya-resume.vercel.app/",
+      codeLink: "https://github.com/prinsusadadiya06/PrinsUsadadiya-Resume",
     },
     {
       title: "Ice Cream Website",
-      description:
-        "A fully responsive Ice Cream Web built with HTML,CSS and Javascript.",
+      description: "Ice cream shop website built with Next.js and Tailwind CSS.",
       imgSrc: "/icecream.png",
-      demoLink:
-        "https://prinsusadadiya06.github.io/Icecream-Website/",
-      codeLink:
-        "https://github.com/prinsusadadiya06/Icecream-Website",
+      demoLink: "https://icecream-website-nu.vercel.app/",
+      codeLink: "https://github.com/prinsusadadiya06/Icecream-Website",
+    },
+    {
+      title: "Food Portfolio",
+      description: "Full-stack blog platform built with Reac.js and Tailwind CSS.",
+      imgSrc: "/foodportfolio.png",
+      demoLink: "https://food-portfolio-mauve.vercel.app/",
+      codeLink: "https://github.com/prinsusadadiya06/FoodPortfolio",
+    },
+    {
+      title: "Car Rent Website",
+      description: "Car rental platform built with Next.js and MongoDB.",
+      imgSrc: "/carrent.png",
+      demoLink: "https://carrent-website-two.vercel.app/",
+      codeLink: "https://github.com/prinsusadadiya06/CarRent-Website",
+    },
+    {
+      title: "E-commerce Website",
+      description: "MERN stack e-commerce app with JWT authentication.",
+      imgSrc: "/ecommerce.png",
+      demoLink: "https://flipcart-clone-website.vercel.app/",
+      codeLink: "https://github.com/prinsusadadiya06/FlipcartClone-Website",
+    },
+
+    {
+      title: "Internet Research Studio",
+      description: "Full-stack website built with Next.js and Tailwind CSS.",
+      imgSrc: "/internet.png",
+      demoLink: "https://internetresearchstudio-website.vercel.app/",
+      codeLink: "https://github.com/prinsusadadiya06/InternetReserachStudio-Website",
     },
   ];
 
