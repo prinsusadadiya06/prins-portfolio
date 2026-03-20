@@ -7,7 +7,7 @@ export default function ProjectsPage() {
   const projects = [
     {
       title: "Personal Portfolio",
-      description: "A fully responsive personal portfolio built with Next.js and Tailwind CSS.",
+      description: "A fully responsive personal portfolio built with React.js and Tailwind CSS.",
       imgSrc: "/portfolio.png",
       demoLink: "https://prinsusadadiya-resume.vercel.app/",
       codeLink: "https://github.com/prinsusadadiya06/PrinsUsadadiya-Resume",
@@ -46,6 +46,13 @@ export default function ProjectsPage() {
       imgSrc: "/ecommerce.png",
       demoLink: "https://flipcart-clone-website.vercel.app/",
       codeLink: "https://github.com/prinsusadadiya06/FlipcartClone-Website",
+    },
+    {
+      title: "Internet Research Studio",
+      description: "Full-stack website built with Next.js and Tailwind CSS.",
+      imgSrc: "/internet.png",
+      demoLink: "https://internetresearchstudio-website.vercel.app/",
+      codeLink: "https://github.com/prinsusadadiya06/InternetReserachStudio-Website",
     },
   ];
 
