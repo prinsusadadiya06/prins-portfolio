@@ -14,40 +14,41 @@ export default function ProjectsPage() {
     },
     {
       title: "Ice Cream Website",
-      description: "Ice cream shop website built with Next.js and Tailwind CSS.",
+      description: "Ice cream shop website built with Html, CSS and Javascript.",
       imgSrc: "/icecream.png",
       demoLink: "https://icecream-website-nu.vercel.app/",
       codeLink: "https://github.com/prinsusadadiya06/Icecream-Website",
     },
     {
       title: "Food Portfolio",
-      description: "Full-stack blog platform built with Reac.js and Tailwind CSS.",
+      description: "Full-stack blog platform built with React.js and Tailwind CSS.",
       imgSrc: "/foodportfolio.png",
       demoLink: "https://food-portfolio-mauve.vercel.app/",
       codeLink: "https://github.com/prinsusadadiya06/FoodPortfolio",
     },
     {
+      title: "Car Washing",
+      description: "GSAP animation built with Html and css",
+      imgSrc: "/carwashing.png",
+      demoLink: "https://car-washing-zeta.vercel.app/",
+      codeLink: "https://github.com/prinsusadadiya06/CarWashing-Website",
+    },
+    {
       title: "Car Rent Website",
-      description: "Car rental platform built with Next.js and MongoDB.",
+      description: "Car rental platform built with Html and CSS.",
       imgSrc: "/carrent.png",
       demoLink: "https://carrent-website-two.vercel.app/",
       codeLink: "https://github.com/prinsusadadiya06/CarRent-Website",
     },
     {
       title: "E-commerce Website",
-      description: "MERN stack e-commerce app with JWT authentication.",
+      description: "MERN stack e-commerce app with React.js and Tailwind CSS.",
       imgSrc: "/ecommerce.png",
       demoLink: "https://flipcart-clone-website.vercel.app/",
       codeLink: "https://github.com/prinsusadadiya06/FlipcartClone-Website",
     },
 
-    {
-      title: "Internet Research Studio",
-      description: "Full-stack website built with Next.js and Tailwind CSS.",
-      imgSrc: "/internet.png",
-      demoLink: "https://internetresearchstudio-website.vercel.app/",
-      codeLink: "https://github.com/prinsusadadiya06/InternetReserachStudio-Website",
-    },
+
 
 
   ];
