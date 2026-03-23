@@ -217,9 +217,9 @@ export default function ResumePage() {
                             </div>
 
                             {/* Resume Preview */}
-                            <div className="bg-white/10 backdrop-blur-2xl border border-white/20 rounded-2xl overflow-hidden shadow-xl hover:scale-[1.02] transition duration-300">
+                            {/* <div className="bg-white/10 backdrop-blur-2xl border border-white/20 rounded-2xl overflow-hidden shadow-xl hover:scale-[1.02] transition duration-300">
                                 <iframe src="/resume.pdf" className="w-full h-[500px]" />
-                            </div>
+                            </div> */}
 
                         </motion.div>
                     </div>

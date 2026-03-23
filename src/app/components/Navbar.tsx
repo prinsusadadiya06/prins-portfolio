@@ -23,10 +23,10 @@ export default function Navbar() {
 
   return (
     <nav className="fixed w-full z-50 bg-white border-b border-gray-200 shadow-sm">
-      <div className="max-w-7xl mx-auto flex justify-between items-center p-4">
+      <div className="max-w-7xl mx-auto  flex justify-between items-center p-4">
 
         {/* Logo */}
-        <Link href="/" className="text-xl font-semibold text-gray-800">
+        <Link href="/" className="text-2xl font-semibold text-gray-800">
           Prins Usadadiya
         </Link>
 
