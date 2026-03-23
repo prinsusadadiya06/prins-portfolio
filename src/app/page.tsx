@@ -44,13 +44,13 @@ export default function Home() {
       demoLink: "https://carrent-website-two.vercel.app/",
       codeLink: "https://github.com/prinsusadadiya06/CarRent-Website",
     },
-    {
-      title: "E-commerce Website",
-      description: "MERN stack e-commerce app with React.js and Tailwind CSS.",
-      imgSrc: "/ecommerce.png",
-      demoLink: "https://flipcart-clone-website.vercel.app/",
-      codeLink: "https://github.com/prinsusadadiya06/FlipcartClone-Website",
-    },
+    // {
+    //   title: "E-commerce Website",
+    //   description: "MERN stack e-commerce app with React.js and Tailwind CSS.",
+    //   imgSrc: "/ecommerce.png",
+    //   demoLink: "https://flipcart-clone-website.vercel.app/",
+    //   codeLink: "https://github.com/prinsusadadiya06/FlipcartClone-Website",
+    // },
   ];
 
   return (

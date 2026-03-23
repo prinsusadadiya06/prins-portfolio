@@ -40,20 +40,20 @@ export default function ProjectsPage() {
       demoLink: "https://carrent-website-two.vercel.app/",
       codeLink: "https://github.com/prinsusadadiya06/CarRent-Website",
     },
-    {
-      title: "E-commerce Website",
-      description: "MERN stack e-commerce app with React.js and Tailwind CSS.",
-      imgSrc: "/ecommerce.png",
-      demoLink: "https://flipcart-clone-website.vercel.app/",
-      codeLink: "https://github.com/prinsusadadiya06/FlipcartClone-Website",
-    },
-    {
-      title: "Internet Research Studio",
-      description: "Internet research studio built with Html and CSS.",
-      imgSrc: "/internet.png",
-      demoLink: "https://internetresearchstudio-website.vercel.app/",
-      codeLink: "https://github.com/prinsusadadiya06/InternetReserachStudio-Website",
-    },
+    // {
+    //   title: "E-commerce Website",
+    //   description: "MERN stack e-commerce app with React.js and Tailwind CSS.",
+    //   imgSrc: "/ecommerce.png",
+    //   demoLink: "https://flipcart-clone-website.vercel.app/",
+    //   codeLink: "https://github.com/prinsusadadiya06/FlipcartClone-Website",
+    // },
+    // {
+    //   title: "Internet Research Studio",
+    //   description: "Internet research studio built with Html and CSS.",
+    //   imgSrc: "/internet.png",
+    //   demoLink: "https://internetresearchstudio-website.vercel.app/",
+    //   codeLink: "https://github.com/prinsusadadiya06/InternetReserachStudio-Website",
+    // },
   ];
 
   return (
