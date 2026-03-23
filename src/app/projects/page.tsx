@@ -23,7 +23,7 @@ export default function ProjectsPage() {
       title: "Food Portfolio",
       description: "Food portfolio built with React.js and Tailwind CSS.",
       imgSrc: "/foodportfolio.png",
-      demoLink: "https://food-portfolio-mauve.vercel.app/",
+      demoLink: "https://food-portfolio-omega.vercel.app/",
       codeLink: "https://github.com/prinsusadadiya06/Food-Portfolio",
     },
     {
