@@ -34,7 +34,7 @@ export default function ContactPage() {
       return;
     }
 
-    const loadingToast = toast.loading("Sending message...");
+    const loadingToast = toast.loading("Sending your message...");
 
     try {
       await emailjs.send(
@@ -44,7 +44,7 @@ export default function ContactPage() {
         "r8GFG6CFhuqB1pYgn"
       );
 
-      toast.success("Message sent successfully", {
+      toast.success("Thank you for reaching out. We will get back to you shortly.", {
         id: loadingToast,
       });
 
@@ -57,7 +57,7 @@ export default function ContactPage() {
       });
     } catch (error) {
       console.log(error);
-      toast.error("Failed to send", {
+      toast.error("Something went wrong. Please try again.", {
         id: loadingToast,
       });
     }
