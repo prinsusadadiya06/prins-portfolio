@@ -52,23 +52,14 @@ export default function ProjectCard({
         </p>
 
         {/* Buttons */}
-        <div className="flex gap-3 mt-5">
+        <div className="flex mt-5">
           <a
             href={demoLink}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex-1 py-2 text-center text-white font-medium bg-indigo-600 rounded-lg hover:bg-indigo-700 transition"
+            className="w-full py-2 text-center text-white font-medium bg-indigo-600 rounded-lg hover:bg-indigo-700 transition"
           >
             Live Demo
-          </a>
-
-          <a
-            href={codeLink}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex-1 py-2 text-center text-white font-medium bg-purple-600 rounded-lg hover:bg-purple-700 transition"
-          >
-            Code
           </a>
         </div>
       </div>

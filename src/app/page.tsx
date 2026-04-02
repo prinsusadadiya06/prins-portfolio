@@ -10,6 +10,13 @@ import Footer from "./components/Footer";
 export default function Home() {
   const projects = [
     {
+      title: "Crickpluse",
+      description: "Developed a full-stack cricket web application using the MERN stack (MongoDB, Express.js, React, Node.js). The platform provides live match updates, latest cricket news, team and player details, and match schedules. Implemented REST APIs for dynamic data handling and built a responsive, user-friendly interface with modern UI design. Ensured smooth performance and seamless user experience across devices.",
+      imgSrc: "/crickpluse.png",
+      demoLink: "https://crickpluse.vercel.app/",
+      codeLink: "https://github.com/prinsusadadiya06/CrickPluse",
+    },
+    {
       title: "Personal Portfolio",
       description: "A fully responsive personal portfolio built with React.js and Tailwind CSS.",
       imgSrc: "/portfolio.png",
@@ -44,13 +51,6 @@ export default function Home() {
       demoLink: "https://carrent-website-two.vercel.app/",
       codeLink: "https://github.com/prinsusadadiya06/CarRent-Website",
     },
-    // {
-    //   title: "E-commerce Website",
-    //   description: "MERN stack e-commerce app with React.js and Tailwind CSS.",
-    //   imgSrc: "/ecommerce.png",
-    //   demoLink: "https://flipcart-clone-website.vercel.app/",
-    //   codeLink: "https://github.com/prinsusadadiya06/FlipcartClone-Website",
-    // },
   ];
 
   return (
