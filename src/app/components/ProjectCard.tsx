@@ -16,7 +16,6 @@ export default function ProjectCard({
   description,
   imgSrc,
   demoLink,
-  codeLink,
 }: ProjectProps) {
   return (
     <motion.div
